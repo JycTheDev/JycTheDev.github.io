@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.enyata.pouchers",
+    "sha256_cert_fingerprints":
+    ["3B:23:21:5F:EF:BA:BD:A4:83:A0:E5:9C:98:E1:24:53:DD:9D:5E:44:EA:45:C6:02:16:0D:AC:60:3B:CA:96:D4"]
+  }
+}
