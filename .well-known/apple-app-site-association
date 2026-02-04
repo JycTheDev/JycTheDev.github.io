@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "APJ9SQHUZF.com.enyata.pouchers",
+        "paths": ["/deeplink/*"]
+      }
+    ]
+  }
+}
